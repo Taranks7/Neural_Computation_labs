@@ -5,7 +5,7 @@ Python labs - part of the school of computer science's Neural Computation module
 Practise basic concepts in the Python programming language
 ## [Lab 2 - Linear Regression](https://github.com/Taranks7/Neural_Computation_labs/blob/main/lab2.ipynb)
 Implement a simple machine learning learning model for regression. 
-## [Lab 3 - Python Basics II]()
+## [Lab 3 - Python Basics II](https://github.com/Taranks7/Neural_Computation_labs/blob/main/lab3.ipynb)
 Practise basic concepts in the Python programming language
 ## [Lab 4 - Maximum Likelihood]()
 Maximum likelihood - a fundamental method of estimating the parameters of a probability distribution by maximizing a likelihood function. 
