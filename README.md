@@ -9,7 +9,7 @@ Implement a simple machine learning learning model for regression.
 Numpy and tensor python programming.
 ## [Lab 4 - Maximum Likelihood]()
 Maximum likelihood - a fundamental method of estimating the parameters of a probability distribution by maximizing a likelihood function. 
-[PDF describing maximum likelihood method.]()
+[PDF describing maximum likelihood method.](https://github.com/Taranks7/Neural_Computation_labs/blob/main/Maximum%20likelihood.pdf)
 ## [Lab 5 - High-dimensional Gradient Descent]()
 * how to define a probability density function
 * how to fit a Gaussian model using maximum likelihood estimation
