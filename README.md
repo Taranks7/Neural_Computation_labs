@@ -7,17 +7,17 @@ Practise basic concepts in the Python programming language
 Implement a simple machine learning learning model for regression. 
 ## [Lab 3 - Python Basics II](https://github.com/Taranks7/Neural_Computation_labs/blob/main/lab3.ipynb)
 Numpy and tensor python programming.
-## [Lab 4 - Maximum Likelihood]()
+## [Lab 4 - Maximum Likelihood](https://github.com/Taranks7/Neural_Computation_labs/blob/main/lab4.ipynb)
 Maximum likelihood - a fundamental method of estimating the parameters of a probability distribution by maximizing a likelihood function. 
 [PDF describing maximum likelihood method.](https://github.com/Taranks7/Neural_Computation_labs/blob/main/Maximum%20likelihood.pdf)
-## [Lab 5 - High-dimensional Gradient Descent]()
+## [Lab 5 - High-dimensional Gradient Descent](https://github.com/Taranks7/Neural_Computation_labs/blob/main/lab5.ipynb)
 * how to define a probability density function
 * how to fit a Gaussian model using maximum likelihood estimation
 * how to define a loss function via log likelihood
 * how to produce scatter and line plots using matplotlib
 * how to train a Gaussian model using high-dimensional gradient descent/ascent
 * how to use pytorch for automated gradient descent/ascent
-## [Lab 6 - Automatic differentiation (autograd)]()
+## [Lab 6 - Automatic differentiation (autograd)](https://github.com/Taranks7/Neural_Computation_labs/blob/main/lab6.ipynb)
 - How to create tensors in Pytorch via torch.Tensor
 - How backpropgation is performed in Pytorch (via autograd)
 - How to split the dataset into training and validation sets
